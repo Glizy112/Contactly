@@ -1,4 +1,4 @@
-# Contacts Mobile App
+## Contacts Mobile App
 
 ## Features
 - Infinite scroll to load more contacts when user scrolls the contact list to give better user experience.
